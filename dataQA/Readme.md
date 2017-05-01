@@ -1,0 +1,1 @@
+Automatic daily checks quality of data stored in datawarehouse from ad DMP.
